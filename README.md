@@ -1,6 +1,9 @@
 # WHOIS
-whois for linux and termux
+ whois for linux and termux
 
+1. git clone https://github.com/mrhack125/WHOIS.git
 
-python3 WHOIS.py
+2. cd WHOIS
+
+3. python3 WHOIS.py
 
