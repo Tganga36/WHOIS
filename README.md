@@ -6,7 +6,7 @@
 
 2. cd WHOIS
 
-3. chmod +x * WHOIS.py
+3. chmod +x  WHOIS.py
 
 4. python3 WHOIS.py
 
