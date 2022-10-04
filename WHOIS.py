@@ -25,7 +25,7 @@ def whois():
     time.sleep(0.3)
     print(Fore.LIGHTRED_EX + "[3] Exit...")
     print("")
-    print(Fore.LIGHTYELLOW_EX + "[+]" + Fore.LIGHTGREEN_EX + "create by @mrhack125")
+    print(Fore.LIGHTYELLOW_EX + "[+]" + Fore.LIGHTGREEN_EX + "create by @Tganga36")
     print("")
     x = input(">>> ")
     #----------------------------------------
